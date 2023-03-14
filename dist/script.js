@@ -4129,7 +4129,11 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var modals = function modals() {
+<<<<<<< HEAD
   var btnPressed;
+=======
+  var btnPressed = false;
+>>>>>>> 13ccafd489c50ae2f0e43045ff76c0a93e00428a
 
   function bindModal(triggerSelector, modalSelector, closeSelector) {
     var destroy = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : false;
@@ -4177,12 +4181,15 @@ var modals = function modals() {
         document.body.style.marginRight = "0px";
       }
     });
+<<<<<<< HEAD
     document.addEventListener('keydown', function (e) {
       if (e.code === 'Escape') {
         modal.style.display = 'none';
         document.body.style.overflow = "";
       }
     });
+=======
+>>>>>>> 13ccafd489c50ae2f0e43045ff76c0a93e00428a
   }
 
   function showModalByTime(selector, time) {
