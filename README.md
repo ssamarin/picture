@@ -30,7 +30,7 @@
 + JS
     + [Modals](https://github.com/ssamarin/picture/blob/master/src/js/modules/modals.js)
     + [Sliders](https://github.com/ssamarin/picture/blob/master/src/js/modules/sliders.js)
-    + [Sending](https://github.com/ssamarin/picture/blob/master/src/js/services/requests.js) data [forms](https://github.com/ssamarin/picture/blob/master/src/js/modules/forms.js) to the server, including sending files
+    + [Sending](https://github.com/ssamarin/picture/blob/master/src/js/services/requests.js) [forms](https://github.com/ssamarin/picture/blob/master/src/js/modules/forms.js) data to the server, including sending files
         + Phone number input [mask](https://github.com/ssamarin/picture/blob/master/src/js/modules/mask.js)
         + [Validation](https://github.com/ssamarin/picture/blob/master/src/js/modules/checkTextInputs.js) of forms (Cyrillic characters, not numbers)
         + [Drag'n'Drop](https://github.com/ssamarin/picture/blob/master/src/js/modules/drop.js) files
