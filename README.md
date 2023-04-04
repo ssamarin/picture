@@ -15,6 +15,8 @@
 
 - HTML 5 <img src="https://i.imgur.com/qO0PGIL.png" width="20" height="20">
 - CSS 3 <img src="https://i.imgur.com/5hSV08Q.png" width="20" height="20">
+- Animate.css <img src="https://i.imgur.com/NyQEtYp.png" width="20" height="20">
+- Bootstrap 5 <img src="https://i.imgur.com/HUE1oeN.jpg" width="20" height="20">
 - LESS <img src="https://i.imgur.com/l0nrAOT.png" width="20" height="20">
 - Java Script <img src="https://i.imgur.com/STb3G3u.png" width="20" height="20">
 - Git  <img src="https://i.imgur.com/UXAVdJg.png" width="20" height="20">
